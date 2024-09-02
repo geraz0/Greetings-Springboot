@@ -17,7 +17,7 @@ This is a simple Spring Boot application designed to demonstrate the basic funct
 
 ## Running the Application
 
-1. **Clone the repository** (if applicable) or download the project files.
+1. **Clone the repository** (https://github.com/geraz0/Greetings-Springboot.git) or download the project files.
 2. **Navigate to the project directory**:
    ```bash
    cd greetings2
